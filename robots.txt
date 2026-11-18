@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evoksoftwareorganization.github.io/cizenviewer-max-web/sitemap.xml

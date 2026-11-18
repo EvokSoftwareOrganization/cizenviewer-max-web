@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/</loc>
+    <lastmod>2026-11-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/"/>
+  </url>
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/"/>
+  </url>
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/gizlilik/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/privacy/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/gizlilik/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/privacy/"/>
+  </url>
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/kosullar/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/kosullar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/terms/"/>
+  </url>
+  <url>
+    <loc>https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/terms/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/kosullar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://evoksoftwareorganization.github.io/cizenviewer-max-web/en/terms/"/>
+  </url>
+</urlset>
