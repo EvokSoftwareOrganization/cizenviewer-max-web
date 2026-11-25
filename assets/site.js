@@ -5,7 +5,7 @@
   // Store links. Leave empty while the app is not live: the buttons then say "Coming soon".
   // When the app is published, paste the store URLs here; every store button on every page updates.
   const STORE_LINKS = {
-    ios: "", // e.g. "https://apps.apple.com/app/id0000000000"
+    ios: "https://apps.apple.com/app/id6835437347",
     android: "", // e.g. "https://play.google.com/store/apps/details?id=com.example.app"
   };
 
